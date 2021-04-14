@@ -1,0 +1,84 @@
+/* -------global-------- */
+:root {
+    --bg:  #b8c6db;
+    --bg-question: #fff;
+    --light-blue: #aac6f0;
+    --med-blue: #588AD6;
+    --dark-blue: #33445E;
+    --bg-gradient: linear-gradient(315deg, #0f2027, #203a43, #2c5364);
+
+}
+
+header {
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-image: var(--bg-gradient);
+    font-family: "Courier New";
+    margin: 0;
+    min-height: 100vh;
+}
+
+#dateCounter {  
+    background-color: rgb(87, 136, 151);
+    border:lightblue;
+    font-family: "Courier New";  
+    border: 2px var(--red) solid;
+    border-radius: 0.25rem;
+
+    height: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    opacity: 0.6;   
+}
+
+.timer {
+    background-color:var(--bg-gradient);
+    border: none;
+    color: rgb(0, 255, 157);
+    font-family: inherit;  
+    font-size: 1.3rem;
+    display: grid;
+    align-items: center;
+    width: 100%;
+}
+
+
+/* button */
+
+button {
+    background-color:var(--bg-gradient);
+    border: none;
+    color: rgb(0, 255, 157);
+    font-family: inherit; 
+    font-size: 1.3rem;    
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:hover {
+    color: rgb(255, 0, 170);
+    text-shadow: 0 0 5px rgb(177, 26, 139);
+}
+
+
+/* countdown clock */ 
+#demo {
+    background-color:var(--bg-gradient);
+    align-items: center;
+    color: rgb(0, 255, 157);
+    font-family: inherit;  
+    font-size: 5rem;
+    display: grid;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+    text-align: center;
+    text-shadow: 0 0 20px rgb(130, 150, 127);
+}
