@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img alt="Countdown Clock" title="Countdown Clock" src="" width="220px" />
+  <img alt="Countdown Clock" title="Countdown Clock" width="220px" />
 </h1>
 
+<p align="center">
+  <img alt="dev.finances" src="![Capturar2](https://user-images.githubusercontent.com/81590952/114775147-5b9a2680-9d47-11eb-8392-a1d04af84522.PNG)" width="100%">
+</p>
 <br>
 
 ## 🚀 Tecnologias
