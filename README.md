@@ -19,12 +19,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-⌛ O countdown clock é um mini  projeto desenvolvido para levantar o numero de dias, horas, minutos e segundos que um determinado evento está para acontecer. 
+⌛ O countdown clock é um mini projeto para levantar o numero de dias, horas, minutos e segundos que um determinado evento está para acontecer. 
 <br>
-🤯 É um alimentador/ controlador de ansiedade, que serve para vizualisar a distância de uma determinada data. 
-<br>
-*⌛ The Countdown clock is a mini
-🤯 É um alimentador/ controlador de ansiedade, que serve para vizualisar a distância de uma determinada data.*
+*⌛ The Countdown clock is a mini project to get the days, hours, minutes and seconds towards a specific date. 
 
 ## 💻 To do
 
