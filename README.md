@@ -4,9 +4,6 @@
 
 <br>
 
-
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -26,8 +23,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 To do
 
 ✔️Melhorar o design do clock.
+<br>
+❌Zerar o contador ao adicionar nova data.
+<br>
 ❌Adicionar um título para o countdown específico.
+<br>
 ❌Adicionar uma lista com os countdowns anteriores do usuário.
+<br>
 ❌Adicionar um botão de limpar os countdowns anteriores do usuário. 
+
+<br>
+<br>
 
 ## Happy Slapsgiving
