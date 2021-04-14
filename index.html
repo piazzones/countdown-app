@@ -6,21 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="./script.js"></script>
+    <link rel="stylesheet" href="./style.css">
 
 </head>
 <body>
-    <div class="countContainer">
-        <h2 class="timer" id="timer">Countdown</h2>
-            <div>
-                <input type="date" id="dateCounter"/>  
-            </div>       
-
+    <header>
+    <div class="countHeader">
+        <h2 class="header" id="header">Countdown to</h2>
     </div> 
+    </header>
 
-    
-    <div id= "startButton">
-        <button  id= "button" onclick="counter()">Start!</button>
-    </div>
+    <section class="dateTimer">
+        <div>
+            <input class="date" type="date" id="dateCounter"/>  
+        </div>      
+        <br></br>
+        <div id="startButton">
+            <button  id= "button" onclick="counter()">Start!</button>
+        </div>    
+    </section>
 
     <p id="demo"></p>
 
