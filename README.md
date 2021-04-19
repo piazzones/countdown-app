@@ -14,7 +14,7 @@
 
 ## 💻 Project
 
-*⌛ The Countdown clock is a mini project to get the days, hours, minutes and seconds towards a specific date. 
+*⌛ The Countdown clock is a mini project to get the days, hours, minutes and seconds towards a specific date.* 
 
 ## 💻 To do
 
@@ -22,13 +22,7 @@
 <br>
 ❌ Reset the counter as input new Date
 <br>
-❌Adicionar um título para o countdown específico.
-<br>
-❌Adicionar uma lista com os countdowns anteriores do usuário.
-<br>
-❌Adicionar um botão de limpar os countdowns anteriores do usuário. 
-
-<br>
+❌Keep the countdown as user closes the browser 
 <br>
 
 ## Happy Slapsgiving
