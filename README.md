@@ -25,4 +25,4 @@
 ❌Keep the countdown as user closes the browser 
 <br>
 
-## Happy Slapsgiving
+👋 Happy Slapsgiving 
